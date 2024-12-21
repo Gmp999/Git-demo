@@ -1,4 +1,4 @@
-a = 'samarth'
+m = 'samarth'
 b = 'goutham'
 c = 'akki'
-d = a+b+c
+d = m+b+c
